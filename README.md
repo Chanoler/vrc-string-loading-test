@@ -1,0 +1,1 @@
+# vrc-string-loading-test
